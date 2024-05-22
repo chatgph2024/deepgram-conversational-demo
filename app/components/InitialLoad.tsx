@@ -15,7 +15,7 @@ export const InitialLoad = ({ fn, connecting = true }: { fn: () => void, connect
           <h2 className="font-favorit mt-2 block font-bold text-xl text-gray-100">
             Welcome to Aitek-PH&apos;s
             <br />
-            AI Agent Tech Demo.
+            AI-Tek Voice Streaming.
           </h2>
           <div className="flex justify-center mt-4">
             <ul className="list-disc list-inside marker:text-[#13EF93]">
